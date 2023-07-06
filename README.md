@@ -4,7 +4,7 @@ Hola👋, Soy Andrés y soy desarrollador Web (Front-End)<br>Actualmente Tecnolo
 [README in english](#english-version)
 
 ## 🌐 Redes Sociales:
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbb2013@gmail.com?subject=) [![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://http-andres2122.github.io/Portafolio-IABB-2023) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http.andres2122) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres2122) [![WhasApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.link/dyr3sy) 
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbb2013@gmail.com?subject=) [![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://http-andres2122.github.io/Portafolio-IABB-2023) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http.andres2122) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres2122) [![WhasApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dyr3sy) 
 
 
 
@@ -27,7 +27,7 @@ Hello 👋, I'm Andrés and I'm a Web developer (Front-End)<br>Currently Technol
 I use tools such as Github, Bash, Visual code, Figma and Trello.
 
 ## 🌐 Social networks:
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbb2013@gmail.com?subject=) [![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://http-andres2122.github.io/Portafolio-IABB-2023) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http.andres2122) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres2122) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.link/dyr3sy) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanbb2013@gmail.com?subject=) [![Portafolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://http-andres2122.github.io/Portafolio-IABB-2023) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/http.andres2122) [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andres2122) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/dyr3sy) 
 
 
 
